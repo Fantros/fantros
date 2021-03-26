@@ -4,8 +4,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantros&theme=dark&hide_border=true&layout=compact">
 
-<p><em>Software Enginner at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://hackinguide.net/">HackinGuide</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Software Enginner at <a href="https://hackinguide.net/">HackinGuide</a></br>Founder at <a href="https://hackinguide.net/">HackinGuide</a></em></p>
 
 ### Connect with me:
 
