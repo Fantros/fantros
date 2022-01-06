@@ -1,6 +1,7 @@
 <h2>Hi, I'm Fantros!</h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fantros&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantros&theme=dark&hide_border=true&layout=compact">
 <p><em>Software Enginner at <a href="https://partivo.net/">Partivo</a></br>Founder at <a href="https://partivo.net/">Partivo</a></em></p>
 
