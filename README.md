@@ -16,7 +16,7 @@
 <a href="https://wikipedia.org/wiki/PHP"><img alt="php" align="center" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/HTML5"><img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/JavaScript"><img alt="javascript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"></a>
-<a href="https://wikipedia.org/wiki/CSS"><img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-2A93CA?style=flat-square&logo=css3&logoColor=white"></a>
+<a href="https://wikipedia.org/wiki/CSS3"><img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-2A93CA?style=flat-square&logo=css3&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/Node.js"><img alt="node.js" align="center" src="https://img.shields.io/badge/-Node.Js-43853d?style=flat-square&logo=node.js&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/Qt_(software)"><img alt="qt" align="center" src="https://img.shields.io/badge/-QT-3FC74F?style=flat-square&logo=qt&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/Lua_(programming_language)"><img alt="lua" align="center" src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white"></a>
