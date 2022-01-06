@@ -1,4 +1,4 @@
-### <h2>Hi, I'm Fantros!</h2>
+<h2>Hi, I'm Fantros!</h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fantros&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 
@@ -8,6 +8,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/fastspiddy" target="_blank"><img align="center" alt="twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> <a href="https://discord.gg/9Wj49UbZjZ" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> <a href="https://steamcommunity.com/id/fantros" target="_blank"><img align="center" alt="steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a>
+
 
 ### Programming Languages:
 
