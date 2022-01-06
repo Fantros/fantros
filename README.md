@@ -11,7 +11,7 @@
 <a href="https://discord.gg/9Wj49UbZjZ" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/fantros" target="_blank"><img align="center" alt="steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"></a>
 
-<h3>### Programming Languages:</h3>
+<h3>Programming Languages:</h3>
 
 <a href="https://wikipedia.org/wiki/PHP"><img alt="php" align="center" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white"></a>
 <a href="https://wikipedia.org/wiki/HTML5"><img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
