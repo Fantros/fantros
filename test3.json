@@ -1,6 +1,5 @@
 {
     "status": "ok",
-    "psp": {
         "totalMonitors": 2,
         "monitors": [
             {
@@ -381,7 +380,6 @@
                 }
             },
             {
-                "monitorId": 791211333,
                 "createdAt": 1648600918,
                 "statusClass": "danger",
                 "name": "test2",
@@ -854,24 +852,24 @@
         "December 31, 2021"
     ],
     "statistics": {
-        "uptime": {
-            "l1": {
+        "uptime": [
+            {
                 "label": "warning",
                 "ratio": "50.000"
             },
-            "l7": {
+            {
                 "label": "warning",
                 "ratio": "50.000"
             },
-            "l30": {
+            {
                 "label": "warning",
                 "ratio": "50.000"
             },
-            "l90": {
+            {
                 "label": "warning",
                 "ratio": "50.000"
             }
-        },
+        ],
         "latest_downtime": null,
         "counts": {
             "up": 1,
@@ -879,5 +877,4 @@
             "paused": 0
         },
         "count_result": "1 monitors down"
-    }
 }
