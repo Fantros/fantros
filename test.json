@@ -1,5 +1,6 @@
 {
   "status": "ok",
+  "timezone": "+03:00",
   "totalMonitors": 2,
   "monitors": [
     {
@@ -757,7 +758,6 @@
       }
     }
   ],
-  "timezone": "+03:00",
   "days": [
     "March 30, 2022",
     "March 29, 2022",
