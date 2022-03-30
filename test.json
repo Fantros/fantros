@@ -1,14 +1,12 @@
 {
   "status": "ok",
-  "timezone": "+03:00",
   "totalMonitors": 2,
   "monitors": [
     {
       "createdAt": 1648600619,
       "statusClass": "success",
-      "name": "Test",
-      "url": null,
-      "type": "HTTP(s)",
+      "name": "Partivo Home",
+      "url": "https://partivo.net",
       "dailyRatios": [
         {
           "ratio": "100.00",
@@ -383,8 +381,8 @@
     {
       "createdAt": 1648600918,
       "statusClass": "danger",
-      "name": "test2",
-      "url": null,
+      "name": "Partivo Account",
+      "url": "https://account.partivo.net",
       "type": "HTTP(s)",
       "dailyRatios": [
         {
@@ -869,12 +867,10 @@
         "ratio": "50.000"
       }
     ],
-    "latest_downtime": null,
     "counts": {
       "up": 1,
       "down": 1,
       "paused": 0
-    },
-    "count_result": "1 monitors down"
+    }
   }
 }
