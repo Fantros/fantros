@@ -1,6 +1,5 @@
 {
   "status": "ok",
-  "totalMonitors": 2,
   "monitors": [
     {
       "createdAt": 1648600619,
@@ -869,8 +868,7 @@
     ],
     "counts": {
       "up": 1,
-      "down": 1,
-      "paused": 0
+      "down": 1
     }
   }
 }
