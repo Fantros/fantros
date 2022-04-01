@@ -848,27 +848,7 @@
     "December 31, 2021"
   ],
   "statistics": {
-    "uptime": [
-      {
-        "label": "warning",
-        "ratio": "50.000"
-      },
-      {
-        "label": "warning",
-        "ratio": "50.000"
-      },
-      {
-        "label": "warning",
-        "ratio": "50.000"
-      },
-      {
-        "label": "warning",
-        "ratio": "50.000"
-      }
-    ],
-    "counts": {
-      "up": 1,
-      "down": 1
-    }
+    "up": 1,
+    "down": 1
   }
 }
