@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fantros&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 
-<img width="50%" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true">
+<img width="50%" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=false&theme=default">
 <p><em>Software Enginner at <a href="https://partivo.net/">Partivo</a></br>Founder at <a href="https://partivo.net/">Partivo</a></em></p>
 
 <h3>Contact Me:</h3>
