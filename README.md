@@ -6,7 +6,7 @@
 #
 
 ### Spotify Playing :notes:
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" />
 <br/>
 <h2>
 
