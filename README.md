@@ -1,7 +1,6 @@
 <h2>Hi 👋, I'm Fantros!</h2>
 <p align="right">
-
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true)
 </p>
 
 ### Founder & CEO at Partivo Company
@@ -9,7 +8,7 @@
 #
 
 ### Spotify Playing :notes:
-[![Partivo](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
+[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
 <br/>
 <h2>
 
