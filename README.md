@@ -6,8 +6,7 @@
 {
     "username": "Fantros",
     "email": "fantros@partivo.net",
-    "user_group": 1,
-    "register_date": 2002,
+    "register_year": 2002,
     "is_banned": false,
     "is_staff": true
 }
