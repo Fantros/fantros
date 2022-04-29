@@ -1,5 +1,5 @@
 # Hi 👋, I'm Fantros!
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default" height="390" />
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default" height="380" />
 
 ## Founder & CEO at Partivo Company
 I got 99 problems, but a bitch ain't one.
