@@ -4,12 +4,14 @@
 ## Founder & CEO at Partivo Company
 I got 99 problems, but a bitch ain't one.
 
-## Spotify Playing :notes:
+## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" width="450" />
 
 ## 📃 About me...  
 ```json
 {
-    "website":"partivo.net"
+    "website":"partivo.net",
+    "role":"Founder",
+    "admin":true
 }
 ```
