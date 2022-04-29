@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Fantros!</h2>
+### Hi 👋, I'm Fantros!
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default" />
 
 ### Founder & CEO at Partivo Company
@@ -10,7 +10,7 @@
 <br/>
 <h2>
 
-### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
+### 📃 About me...  
 
 <h3>
 
