@@ -5,7 +5,7 @@
 I got 99 problems, but a bitch ain't one.
 
 ## Spotify Playing :notes:
-<img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" width="250" height="250" />
+<img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" width="300" />
 
 ## 📃 About me...  
 ```json
