@@ -15,23 +15,10 @@
 
 <h3>
     
-```python
-​
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Stack:
-    founder     : tuple = ("www.partivo.net")
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=1)
-
-
-stack = Stack()
-print(stack.serialize())
-​
+```json
+{
+    "website":"partivo.net"
+}
 ```
 </h3>
 
