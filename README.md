@@ -6,7 +6,7 @@
 #
 
 ### Spotify Playing :notes:
-[!](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
+[![Partivo]](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
 <br/>
 <h2>
 
