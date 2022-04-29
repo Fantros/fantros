@@ -15,7 +15,7 @@
 
 <h3>
 
-```
+```json
 {
     "website":"partivo.net"
 }
