@@ -5,12 +5,14 @@
 ```json
 {
     "name": "Fantros",
-    "company": "@Partivo",
-    "website": "partivo.net",
-    "location": "Turkey",
     "email": "fantros@partivo.net",
-    "bio": "Web Developer",
-    "twitter": "FastSpiddy",
+    "biography": "I got 99 problems, but a bitch ain't one",
+    "location": "Turkey",
+    "company": {
+        "name": "Partivo",
+        "website": "partivo.net",
+        "email": "admin@partivo.net"
+    }
 }
 ```
 
