@@ -1,4 +1,4 @@
-### Hi 👋, I'm Fantros!
+## Hi 👋, I'm Fantros!
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default" />
 
