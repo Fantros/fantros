@@ -8,12 +8,8 @@ I got 99 problems, but a bitch ain't one.
 <img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" />
 
 ## 📃 About me...  
-<h3>
-
 ```json
 {
     "website":"partivo.net"
 }
 ```
-
-</h3>
