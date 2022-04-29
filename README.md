@@ -1,15 +1,11 @@
 <h2>Hi 👋, I'm Fantros!</h2>
-<div align="right">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true)
-
-</div>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default" />
 
 ### Founder & CEO at Partivo Company
 <font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> `<feature>` :heart: </font>
 
 ### Spotify Playing :notes:
-[![github-readme-stats](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" />
 <br/>
 <h2>
 
