@@ -10,6 +10,8 @@
 
 ### Spotify Playing :notes:
 [![github-readme-stats](https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark)](https://github.com/Fantros?tab=repositories)
+<br/>
+<h2>
 
 ### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
 
