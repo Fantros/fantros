@@ -1,6 +1,7 @@
 <h2>Hi 👋, I'm Fantros!</h2>
 <p align="right">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true)
+
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31us4ohbcaotjvvfxk5szygl4tle&redirect=true)
 </p>
 
 ### Founder & CEO at Partivo Company
