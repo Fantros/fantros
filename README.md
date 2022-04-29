@@ -3,11 +3,12 @@
 
 ## 📃 About Me
 ```json
-{
-    "website":"partivo.net",
-    "role":"Founder",
-    "admin":true
-}
+    {
+        "nickname": "Fantros",
+        "role": 1,
+        "admin": true,
+        "": ""
+    }
 ```
 
 ## 📊 Statistics
