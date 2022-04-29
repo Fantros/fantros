@@ -4,11 +4,9 @@
 
 ### Founder & CEO at Partivo Company
 <font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> `<feature>` :heart: </font>
-#
 
 ### Spotify Playing :notes:
 <img src="https://github-readme-stats.vercel.app/api?username=fantros&show_icons=true&theme=dark" />
-<br/>
 <h2>
 
 ### 📃 About me...  
