@@ -4,11 +4,13 @@
 ## 📃 About Me
 ```json
 {
-    "username": "Fantros",
+    "name": "Fantros",
+    "company": "@Partivo",
+    "website": "partivo.net",
+    "location": "Turkey",
     "email": "fantros@partivo.net",
-    "register_year": 2002,
-    "is_banned": false,
-    "is_staff": true
+    "bio": "Web Developer",
+    "twitter": "FastSpiddy",
 }
 ```
 
