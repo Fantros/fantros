@@ -2,12 +2,12 @@
 {
     "name": "Fantros",
     "email": "fantros@partivo.net",
-    code: [
+    "code": [
         "JavaScript",
         "HTML",
         "CSS",
     ],
-    tools: [
+    "tools": [
         "VSCode",
         "Node.js",
         "React",
