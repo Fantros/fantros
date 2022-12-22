@@ -1,6 +1,6 @@
 ```json
 {
-    "name": "Fantros",
+    "nickname": "Fantros",
     "email": "fantros@partivo.net",
     "code": [
         "JavaScript",
