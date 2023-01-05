@@ -9,7 +9,7 @@
     "code": [
         "JavaScript",
         "HTML",
-        "CSS",
+        "CSS"
     ],
     "tools": [
         "VSCode",
