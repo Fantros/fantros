@@ -20,7 +20,7 @@
     "company": {
         "name": "Partivo",
         "website": "partivo.net",
-        "email": "admin@partivo.net",
+        "mail": "admin@partivo.net",
         "position": "Associate Founder"
     }
 }
