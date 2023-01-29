@@ -7,6 +7,7 @@
     "mail": "fantros@partivo.net",
     "biography": "I got 99 problems, but a bitch ain't one",
     "code": [
+        "Rust",
         "JavaScript",
         "HTML",
         "CSS"
