@@ -15,7 +15,7 @@
     "tools": [
         "VSCode",
         "Node.js",
-        "React",
+        "React.js",
         "Next.js"
     ],
     "company": {
