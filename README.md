@@ -19,10 +19,8 @@
         "Next.js"
     ],
     "ide": [
-        "Visual Studio",
         "Visual Studio Code",
-        "JetBrains RustRover",
-        "JetBrains WebStorm"
+        "JetBrains RustRover"
     ],
     "company": {
         "name": "Partivo",
