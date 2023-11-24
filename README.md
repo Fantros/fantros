@@ -8,6 +8,7 @@
     "biography": "I got 99 problems, but a bitch ain't one",
     "code": [
         "Rust",
+        "Python",
         "JavaScript",
         "HTML",
         "CSS"
