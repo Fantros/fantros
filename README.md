@@ -28,7 +28,7 @@
         "name": "Partivo",
         "website": "partivo.net",
         "mail": "admin@partivo.net",
-        "position": "Associate Founder"
+        "position": "Co-Founder"
     }
 }
 ```
