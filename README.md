@@ -13,10 +13,14 @@
         "CSS"
     ],
     "tools": [
-        "VSCode",
         "Node.js",
         "React.js",
         "Next.js"
+    ],
+    "ide": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "JetBrains WebStorm"
     ],
     "company": {
         "name": "Partivo",
