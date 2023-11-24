@@ -21,7 +21,7 @@
     "ide": [
         "Visual Studio",
         "Visual Studio Code",
-        "JetBrains WebStorm"
+        "JetBrains RustRover"
     ],
     "company": {
         "name": "Partivo",
