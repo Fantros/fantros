@@ -4,7 +4,7 @@
     "surname": "Alkan",
     "location": "Turkey",
     "nickname": "Fantros",
-    "mail": "kaan-alkan@partivo.net",
+    "email": "kaan-alkan@partivo.net",
     "biography": "I got 99 problems, but a bitch ain't one",
     "code": [
         "Rust",
@@ -25,7 +25,7 @@
     "company": {
         "name": "Partivo",
         "website": "partivo.net",
-        "mail": "admin@partivo.net",
+        "email": "admin@partivo.net",
         "position": "Co-Founder"
     }
 }
